@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Noasef
 - 👀 I’m interested in learning how to code numerous langauges such as Javascript, Python & Rust
 - 🌱 I’m currently learning Javascipt
-- 📫 How to reach me : noasef@tuta.io
+- 📫 How to reach me : b0gj20bn8@relay.firefox.com
 
 <!---
 Noasef/Noasef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
